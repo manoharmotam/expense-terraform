@@ -2,4 +2,4 @@
 *.tfvars.json
 *.tfstate
 *.tfstate*
-.terraformform.lock.hcl
+.terraform.lock.hcl
